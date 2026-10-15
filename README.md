@@ -122,7 +122,7 @@ The project successfully demonstrated departmental network design, IP configurat
 
 **Samuel Letsu**
 
-- **Project:** Project Work 2 – TechNova LTD. Network in Cisco Packet Tracer
+- **Project:** Project Work  – TechNova LTD. Network in Cisco Packet Tracer
 - **Location:** Preston, United Kingdom
 - **GitHub:** Add your GitHub profile URL here.
 - **Email:** Add your professional email address here.
